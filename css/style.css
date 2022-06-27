@@ -1,0 +1,8 @@
+li {
+  list-style-type: none;
+}
+
+li .done {
+  text-decoration: line-through;
+}
+/*# sourceMappingURL=style.css.map */
